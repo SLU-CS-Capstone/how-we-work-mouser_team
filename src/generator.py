@@ -6,3 +6,4 @@ maze.print()
 print("Welcome to 2D maze")
 
 #modification
+#Part2
