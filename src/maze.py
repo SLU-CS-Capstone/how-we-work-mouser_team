@@ -1,5 +1,6 @@
 from graph import Graph
 //issue 4
+//adding code
 class Maze:
     def __init__(self, size):
         self.size = size
